@@ -1,0 +1,1 @@
+print('fucking 자동완성')
